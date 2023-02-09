@@ -54,6 +54,7 @@ const Testimonial = () => {
           </div>
         </>
       )}
+      <h3 className="host-text">Sites used for Hosting:</h3>
 
       <div className="app__testimonial-brands app__flex">
         {brands.map((brand) => (
